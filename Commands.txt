@@ -1,0 +1,4 @@
+javac *.java
+start rmiregistry 5000
+java Server
+java Client
